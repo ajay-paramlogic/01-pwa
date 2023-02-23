@@ -1,17 +1,17 @@
 ## Features
 
-- [] App Icons
-- [] SplashScreen
-- [] WebManifest
-- [] SafeArea
-- [] StatusBar Color
-- [] Meta Tags
-- [] Service Worker
-- [] Push Notifications
-- [] Deployment | Vercel
-- [] Animations with Framer Motion
-- [] Camera, Geolocation
-- [] Supabase
+- [ ] App Icons
+- [ ] SplashScreen
+- [ ] WebManifest
+- [ ] SafeArea
+- [ ] StatusBar Color
+- [ ] Meta Tags
+- [ ] Service Worker
+- [ ] Push Notifications
+- [ ] Deployment | Vercel
+- [ ] Animations with Framer Motion
+- [ ] Camera, Geolocation
+- [ ] Supabase
 
 
 # Starter Kit for Vite, React, TypeScript, Tailwind and Node.js ESM
