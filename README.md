@@ -1,3 +1,6 @@
+## Setup
+https://github.com/cpojer/vite-ts-react-tailwind-template
+
 https://web.dev/learn/pwa/
 ## Features
 
@@ -9,9 +12,9 @@ https://web.dev/learn/pwa/
 - [X] Meta Tags
 - [X] Service Worker
 - [ ] Push Notifications
-- [X] Deployment | Vercel
 - [ ] Animations with Framer Motion
 - [ ] Camera, Geolocation
+- [X] Deployment | Vercel
 - [X] Supabase
 
 ## PNPM
@@ -42,3 +45,5 @@ npx pwa-asset-generator js-logo.png --background "#ade8f4" --xhtml public/pwa-as
 ```
 pnpm i -D vite-plugin-pwa
 ```
+
+yarn, npm, pnpm
