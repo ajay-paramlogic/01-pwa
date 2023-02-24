@@ -72,7 +72,7 @@ module.exports = {
     'prefer-arrow-callback': 2,
     'prefer-const': 2,
     'react-hooks/exhaustive-deps': 2,
-    'react/jsx-sort-props': 2,
+    'react/jsx-sort-props': 0,
     'react/prop-types': 0,
     'react/react-in-jsx-scope': 0,
     semi: [2, 'always'],
