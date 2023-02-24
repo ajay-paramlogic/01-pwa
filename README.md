@@ -1,18 +1,18 @@
 https://web.dev/learn/pwa/
 ## Features
 
-- [ ] App Icons
-- [ ] SplashScreen
-- [ ] WebManifest
+- [X] App Icons
+- [X] SplashScreen
+- [X] WebManifest
 - [ ] SafeArea
 - [ ] StatusBar Color
-- [ ] Meta Tags
-- [ ] Service Worker
+- [X] Meta Tags
+- [X] Service Worker
 - [ ] Push Notifications
-- [ ] Deployment | Vercel
+- [X] Deployment | Vercel
 - [ ] Animations with Framer Motion
 - [ ] Camera, Geolocation
-- [ ] Supabase
+- [X] Supabase
 
 ## PNPM
 ```
